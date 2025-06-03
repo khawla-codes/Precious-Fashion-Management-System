@@ -40,10 +40,14 @@ A full-stack Java-based fashion management system with a user-friendly GUI and f
 
 ## 🚀 How to Run the Project
 
-1. Import the project folder into **NetBeans IDE**
-2. Set up the database using `fashion_management_system.sql` in PhpMyAdmin or MySQL Workbench
-3. Open and run `FashionManagementSystem.java` in the `src` folder
-4. Use the GUI to log in as Admin, Employee, or Customer
+1. Download and extract the file: `FashionManagementSystem.zip`
+2. Open the extracted folder using **NetBeans IDE**
+3. Set up the database using `fashion_management_system.sql` in **PhpMyAdmin** or **MySQL Workbench**
+4. Inside the extracted folder, go to `src` and run `FashionManagementSystem.java`
+5. Use the GUI to log in as Admin, Employee, or Customer
+
+🔖 Note: All source code, images, and design elements are bundled inside the zip file.
+
 
 ---
 
@@ -61,7 +65,7 @@ Other contributors:
 - Maryam Saud Al-Qahtani
 
 ---
-## 🖼 Screenshots
+##  Screenshots
 
 Below are some key screens from the system demonstrating its functionality:
 
