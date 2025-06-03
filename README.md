@@ -68,7 +68,7 @@ Below are some key screens from the system demonstrating its functionality:
 ![Login Screen](https://github.com/khawla-codes/Precious-Fashion-Management-System/blob/2465caf03172b7b03253a81d38b0886c0def5ae6/login.png)  
 **Login Page**: Allows users to enter their username and password to access their account.
 
-![Customer Signup](assets/customer_signup.png)  
+![Customer Signup](https://github.com/khawla-codes/Precious-Fashion-Management-System/blob/8a12e67d4402f6ca7b069eddb099af8edcb25fea/Screenshots/customer_signup.png)  
 **Customer Sign-Up Page**: Used to register new customers by entering personal and contact details.
 
 ![Employee Signup](assets/employee_signup.png)  
