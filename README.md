@@ -74,7 +74,7 @@ Below are some key screens from the system demonstrating its functionality:
 ![Employee Signup](assets/employee_signup.png)  
 **Employee Sign-Up Page**: Used to register employees with additional fields like Employee ID and role.
 
-![Customer Page](assets/customer_page.png)  
+![Customer Page](https://github.com/khawla-codes/Precious-Fashion-Management-System/blob/b86485acf866053e48dd40778d7dca04ea1e538c/Screenshots/customer_page%20-%20Copy.png)  
 **Customer Page**: Customer has added the suit to the cart.
 
 ![Cart Page](https://github.com/khawla-codes/Precious-Fashion-Management-System/blob/5b53a1fe7a2dca77bf8baf242db3bcde7a5550e5/Screenshots/cart.png)  
