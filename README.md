@@ -83,13 +83,13 @@ Below are some key screens from the system demonstrating its functionality:
 ![Inventory Management](https://github.com/khawla-codes/Precious-Fashion-Management-System/blob/d00386f99c57906e321cbecbc6a0a1ce3ea3473a/Screenshots/inventory.png)  
 **Employee Page – Inventory Management**: When an employee selects the "Inventory Management" button, a page appears where they can increase or decrease the number of products in stock.
 
-![Customer Orders](assets/orders.png)  
+![Customer Orders](https://github.com/khawla-codes/Precious-Fashion-Management-System/blob/10e52f8f1837fcca684f7f79bc0d9a59e4db62e7/Screenshots/orders.png)  
 **Employee Page – Customer Orders**: When the employee selects the “Show Customer Orders” button, a page appears displaying the customer orders table. The employee can update the order status.
 
-![Add/Edit Employee](assets/manager_add_edit.png)  
+![Add/Edit Employee](https://github.com/khawla-codes/Precious-Fashion-Management-System/blob/10e52f8f1837fcca684f7f79bc0d9a59e4db62e7/Screenshots/manager_add_edit.png)  
 **Manager Page – Add/Edit Employee**: Manager can add new employees or update employee information.
 
-![Customer Reviews](assets/reviews.png)  
+![Customer Reviews](https://github.com/khawla-codes/Precious-Fashion-Management-System/blob/10e52f8f1837fcca684f7f79bc0d9a59e4db62e7/Screenshots/reviews.png)  
 **Manager Page – Customer Reviews**: When you click the “Customer Review” button on the admin page, a page will appear containing a table of customer data and their feedback for each product.
 
 ---
