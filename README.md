@@ -80,7 +80,7 @@ Below are some key screens from the system demonstrating its functionality:
 ![Cart Page](https://github.com/khawla-codes/Precious-Fashion-Management-System/blob/5b53a1fe7a2dca77bf8baf242db3bcde7a5550e5/Screenshots/cart.png)  
 **Shopping Cart Page**: Customer has clicked the cart to review and see the total of their purchases.
 
-![Inventory Management](assets/inventory.png)  
+![Inventory Management](https://github.com/khawla-codes/Precious-Fashion-Management-System/blob/d00386f99c57906e321cbecbc6a0a1ce3ea3473a/Screenshots/inventory.png)  
 **Employee Page – Inventory Management**: When an employee selects the "Inventory Management" button, a page appears where they can increase or decrease the number of products in stock.
 
 ![Customer Orders](assets/orders.png)  
