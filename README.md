@@ -65,7 +65,7 @@ Other contributors:
 
 Below are some key screens from the system demonstrating its functionality:
 
-![Login Screen]([assets/login.png](https://github.com/khawla-codes/Precious-Fashion-Management-System/blob/2465caf03172b7b03253a81d38b0886c0def5ae6/login.png))  
+![Login Screen](https://github.com/khawla-codes/Precious-Fashion-Management-System/blob/2465caf03172b7b03253a81d38b0886c0def5ae6/login.png)  
 **Login Page**: Allows users to enter their username and password to access their account.
 
 ![Customer Signup](assets/customer_signup.png)  
